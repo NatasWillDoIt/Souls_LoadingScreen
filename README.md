@@ -1,5 +1,8 @@
 # Souls_LoadingScreen
-
+![](https://img.shields.io/github/downloads/NatasWillDoIt/Souls_LoadingScreen/total?logo=github)
+![](https://img.shields.io/github/downloads/NatasWillDoIt/Souls_LoadingScreen/latest/total?logo=github)
+![](https://img.shields.io/github/contributors/NatasWillDoIt/Souls_LoadingScreen?logo=github)
+![](https://img.shields.io/github/v/release/NatasWillDoIt/Souls_LoadingScreen?logo=github)
 ```
 Modify the "SERVER NAME" text in index.html
 Adjust the color scheme in style.css if you want different colors
